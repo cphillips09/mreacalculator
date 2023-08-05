@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mreacalculator/static/css/main.f458fbf1.css",
+    "main.js": "/mreacalculator/static/js/main.6d04fff3.js",
+    "static/js/787.fd17aa33.chunk.js": "/mreacalculator/static/js/787.fd17aa33.chunk.js",
+    "index.html": "/mreacalculator/index.html",
+    "main.f458fbf1.css.map": "/mreacalculator/static/css/main.f458fbf1.css.map",
+    "main.6d04fff3.js.map": "/mreacalculator/static/js/main.6d04fff3.js.map",
+    "787.fd17aa33.chunk.js.map": "/mreacalculator/static/js/787.fd17aa33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f458fbf1.css",
+    "static/js/main.6d04fff3.js"
+  ]
+}
